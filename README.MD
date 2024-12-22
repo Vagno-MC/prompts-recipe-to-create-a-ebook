@@ -15,9 +15,9 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 - Conteúdo gerado via ChatGPT e Gammas 
 - Imagens geradas via Canvas e Leonard.Ai
 
-## 📚 Materiais
+## 📚 Output
 
-- Imagens utilizadas em `assets`
+- Aarquivo em PDF: "EBOOK-2 _IA - A Revolucao da Mente Digital"
 
 
 
